@@ -1,0 +1,33 @@
+Sun Mar 06 13:10:42 IST 2022 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Mar 06 13:10:43 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-5e2c-6574-00007f2140c5 
+on database directory F:\PD\Project\library-management-system-java-code\ProjectGurukul-LibraryManagementSystem\library with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ef04b5 
+Loaded from file:/C:/Users/lit/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.1+10
+user.dir=C:\Users\lit\GlassFish_Server\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=F:\PD\Project\library-management-system-java-code\ProjectGurukul-LibraryManagementSystem
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 06 13:10:53 IST 2022:
+Shutting down instance a816c00e-017f-5e2c-6574-00007f2140c5 on database directory F:\PD\Project\library-management-system-java-code\ProjectGurukul-LibraryManagementSystem\library with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ef04b5 
+Sun Mar 06 13:10:53 IST 2022 Thread[DRDAConnThread_3,5,main] (DATABASE = library), (DRDAID = {2}), Database 'library' shutdown.
+----------------------------------------------------------------
+Sun Mar 06 13:11:02 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-017f-5e2c-6574-00007f2140c5 
+on database directory F:\PD\Project\library-management-system-java-code\ProjectGurukul-LibraryManagementSystem\library with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ef04b5 
+Loaded from file:/C:/Users/lit/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.1+10
+user.dir=C:\Users\lit\GlassFish_Server\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=F:\PD\Project\library-management-system-java-code\ProjectGurukul-LibraryManagementSystem
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 06 15:02:29 IST 2022: Shutting down Derby engine
