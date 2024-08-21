@@ -2,6 +2,14 @@
 
 The main objective behind the development of this software is to speed up the record keeping transactions that are performing by the user in the library. Another important thing behind using the system is to reduce the effort in the library. And try to reduce the problem of the users existing manual system by providing him such a system which will help a lot in his working.
 
+## Project Prerequisites:
+<ul>
+  IDE Used: NetBeans 11.2 (you can use Eclipse)
+  Java and MySql should be installed on the machine.
+  Database Used: MySQL 5.5.
+  To build a library management system using java we require basic knowledge of java and MySQL database operations ( and JDBC).
+</ul>
+
 ## Screenshots
 
 ### o	Admin Login Form & User Login Form:
